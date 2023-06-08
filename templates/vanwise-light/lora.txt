@@ -1,1 +1,1 @@
-https://civitai.com/api/download/models/16557
+https://huggingface.co/OedoSoldier/detail-tweaker-lora/blob/main/add_detail.safetensors
