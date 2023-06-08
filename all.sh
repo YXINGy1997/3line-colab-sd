@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 env PYTHONDONTWRITEBYTECODE=1 &>/dev/null
 env TF_CPP_MIN_LOG_LEVEL=1 &>/dev/null
